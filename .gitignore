@@ -1,0 +1,13 @@
+.ropeproject
+__init__.py
+__pycache__
+.idea/
+db.sqlite3*
+*.swp
+proxy_py/settings.py
+env/
+dist/
+proxy_py.egg-info
+proxypy.egg-info/
+build/
+proxy_py_client.egg-info/
